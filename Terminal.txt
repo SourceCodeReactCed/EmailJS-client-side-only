@@ -1,0 +1,3 @@
+STEP 1: OPEN INTEGRATED TERMINAL IN CLIENT FOLDER AND PASTE THIS
+	
+- npm install @emailjs/browser
